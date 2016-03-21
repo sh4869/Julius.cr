@@ -1,22 +1,6 @@
 # julius.cr
 
-TODO: Write a description here
-
-## Installation
-
-
-TODO: Write installation instructions here
-
-
-## Usage
-
-
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+Using [Julius](https://github.com/julius-speech/julius) - Open-Source Speech Recognition Engine - with Crystal.
 
 ## Contributing
 
