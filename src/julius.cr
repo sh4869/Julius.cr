@@ -1,5 +1,9 @@
 require "./julius/*"
+require "socket"
 
 module Julius
-  # TODO Put your code here
+	socket = TCPSocket.new "localhost", 10500
+	loop do
+		puts socket.gets
+	end
 end
